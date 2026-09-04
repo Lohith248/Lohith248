@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Lohith
 
-<!--
-**Lohith248/Lohith248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech student in **AI & Data Science** at [IIIT Bangalore](https://www.iiitb.ac.in/) (2024–2028). Aspiring AI research / engineering.
 
-Here are some ideas to get you started:
+**Now**
+- Summer research (speech lab): silent speech from **sEMG** with **BiLSTM** models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Selected projects**
+| Repo | What it is |
+|------|------------|
+| [`vision-drone-navigation-wind`](https://github.com/Lohith248/vision-drone-navigation-wind) | PPO + Vision Transformer for continuous drone navigation in wind (PyBullet; ablations + generalization evals) |
+| [`traffic-violations-detection`](https://github.com/Lohith248/traffic-violations-detection) | Course project: YOLO + PaddleOCR for helmet / triple-riding violations + plate OCR (mAP50 ≈ 0.92) |
+| [`Job-Trend-Radar`](https://github.com/Lohith248/Job-Trend-Radar) | Streamlit tool: resume skills ↔ live job postings, gap analysis, learning suggestions |
+
+**Looking for**
+Research internships and AI engineering roles where evidence and experiments matter more than buzzwords.
+
+<!-- Profile README for github.com/Lohith248 — draft for PR review; do not invent unfinished work here. -->
