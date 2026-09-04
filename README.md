@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lohith--pasumarthi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lohith-pasumarthi-5232b521b/)
 [![GitHub](https://img.shields.io/badge/GitHub-Lohith248-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lohith248)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Aspiring+AI+research+%26+engineering;Applied+ML+%7C+RL+%7C+speech+%2F+biosignals;Evidence-first+builder" alt="typing headline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=560&lines=Aspiring+AI+research+%26+engineering;World+models+%7C+multimodal+%7C+RL;Evidence-first+builder" alt="typing headline" />
 
 </div>
 
@@ -16,13 +16,13 @@
 
 ## About
 
-I'm a second-year undergrad at **IIIT Bangalore** studying **Artificial Intelligence & Data Science**. I like work that has a clear experiment, a measurable result, and code you can actually run.
+I'm a second-year undergrad at **IIIT Bangalore** studying **Artificial Intelligence & Data Science**. I care about ideas that compound — models that learn dynamics, agents that see and act, and experiments you can actually reproduce.
 
-**Lately I've been into:**
-- Applied ML on real signals (speech / sEMG)
-- Reinforcement learning for control
-- Privacy-preserving data and generative modeling
-- Building small, end-to-end ML systems I can demo
+**Where my head is at:**
+- **World models** & model-based RL (learning dynamics, planning in latent space — paper-first for now)
+- **Multimodal** learning (vision + language + control)
+- Generative modeling & representation learning
+- Building demos with clear metrics, not just vibes
 
 Open to **research internships** and **AI / ML engineering** roles where curiosity and rigor both matter.
 
@@ -30,12 +30,13 @@ Open to **research internships** and **AI / ML engineering** roles where curiosi
 
 ---
 
-## What I'm working on
+## Exploring next
 
-| Focus | Details |
-|------|---------|
-| **Speech Lab, IIIT-B** (Summer 2026) | BiLSTM pipelines for **8-channel sEMG** gesture / silent-speech decoding — leakage-safe eval, heavy ablation |
-| **Learning next** | Stronger systems chops around serving & evaluation (learning in public — not claiming production inference platforms yet) |
+| Focus | Status |
+|------|--------|
+| **World models / MBRL** | Deepening via papers + small repros — not listing unfinished research as shipped work |
+| **Multimodal agents** | Vision–language–action stacks, grounded decision making |
+| **Systems for ML** | Serving, evaluation, and clean experiment harnesses (learning in public) |
 
 ---
 
@@ -84,7 +85,7 @@ Test **mAP50 ≈ 0.92** · course team project
 <summary><b>More on GitHub</b></summary>
 
 - [Job Trend Radar](https://github.com/Lohith248/Job-Trend-Radar) — Streamlit skill-gap / job-market tool  
-- Always happier when a repo has a real README, numbers, and a way to reproduce
+- I only pin / feature work that has a real README, numbers, and a path to reproduce
 
 </details>
 
@@ -127,15 +128,15 @@ Test **mAP50 ≈ 0.92** · course team project
 
 ## Experience snapshot
 
-- **Summer Research Intern — Speech Lab, IIIT Bangalore** (May–Jul 2026) · sEMG + BiLSTM  
-- **AI Intern — VISWAM.AI / Meta / Swecha Telangana** (May–Jun 2025) · Telugu speech/text for multilingual LLM corpus  
+- **Summer Research Intern — Speech Lab, IIIT Bangalore** (May–Jul 2026) · applied sequence models on institute research data  
+- **AI Intern — VISWAM.AI / Meta / Swecha Telangana** (May–Jun 2025) · low-resource language data for multilingual LLM work  
 - **Datathon 2025 Winner** @ IIIT Bangalore
 
 ---
 
 ## Let's talk
 
-If you're hiring, mentoring, or just want to nerd out about ML / RL / speech:
+If you're hiring, mentoring, or want to talk **world models / multimodal / RL**:
 
 | | |
 |---|---|
